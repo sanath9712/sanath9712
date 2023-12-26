@@ -1,4 +1,4 @@
-# Sanath ![counter](https://eng64hrnquaxti9.m.pipedream.net)
+# Sanath 
 
 ### Hello
 My name is Sanath and I'm a graduate student in Computer Science at Boston University
